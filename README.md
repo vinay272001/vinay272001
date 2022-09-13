@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay Agarwal</h1>
-<h3 align="center">5 🌟 Coder on CodeChef and Expert Coder on CodeForces. Like to learn new things, also interested in Blockchain development (Smart contracts) .Heavily interested in Competitive Programming, and ever ready to solve problems. Currently doing full stack web development using MERN stack.I love exploring new technologies and putting them to work to solve real-world problems. I'm inclined towards the development of software and adapt very quickly to emerging frameworks or languages.</h3>
+<h3 align="center">5 🌟 Coder on CodeChef and Candidate Master Coder on CodeForces. Like to learn new things, also interested in Blockchain development (Smart contracts) .Heavily interested in Competitive Programming, and ever ready to solve problems. Currently doing full stack web development using MERN stack.I love exploring new technologies and putting them to work to solve real-world problems. I'm inclined towards the development of software and adapt very quickly to emerging frameworks or languages.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay272001&label=Profile%20views&color=0e75b6&style=flat" alt="vinay272001" /> </p>
 
